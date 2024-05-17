@@ -1,0 +1,121 @@
+header {
+    width: 1920px;
+    height: 60px;
+    background-color: #c9c9c9;
+    position: absolute;
+    top: 0;
+}
+main {
+    width: 1920px;
+    height: 920px;
+    display: flex;
+    background-color: #cdfaf6;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+footer {
+    width: 1920px;
+    height: 60px;
+    background-color: #c9c9c9;
+    position: absolute;
+}
+#mainbox1 {
+    width: 1200px;
+    height: 800px;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#maintext1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+#subbox1 {
+    width: 1000px;
+    height: 50px;
+    border-style: solid;
+    border-color: #80CBC4;
+    border-width: 1px;
+    display: flex;
+
+}
+#title1 {
+    width: 80px;
+    height: 50px;
+    border-style: solid;
+    border-color: #80CBC4;
+    border-width: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#title2 {
+    width: 920px;
+    height: 50px;
+    font-size: 30px;
+    background-color: #cdfaf6;
+    box-sizing: border-box;
+    border-color: #80CBC4;
+    border-width: 1px;
+}
+#subbox2 {
+    width: 1000px;
+    height: 500px;
+    border-color: #80CBC4;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+#subbox2-1 {
+    width: 998px;
+    height: 40px;
+    border-color: #80CBC4;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+}
+#subbox2-2{
+    width: 992px;
+    height: 460px;
+    background-color: #cdfaf6;
+}
+#subbox3{
+width: 1000px;
+height: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#registration{
+width: 176px;
+height: 40px;
+font-size:30px ;
+font-weight: bold;
+background-color:#408d86 ;
+color: #ffffff;
+}
+#font{
+    width: 160px ;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+#size{
+    width: 250px ;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+#fontsize{
+    width: 7em
+}
